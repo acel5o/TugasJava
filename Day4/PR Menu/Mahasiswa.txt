@@ -1,0 +1,9 @@
+ID : 1
+Nama : Zefanya
+Nilai : 90
+ID : 10
+Nama : Jefanya
+Nilai : 100
+ID : 20
+Nama : Karsini
+Nilai : 69
