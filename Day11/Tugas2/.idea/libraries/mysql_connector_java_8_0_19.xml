@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Hari7/lib/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Hari7/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Hari7/lib/commons-net-3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
